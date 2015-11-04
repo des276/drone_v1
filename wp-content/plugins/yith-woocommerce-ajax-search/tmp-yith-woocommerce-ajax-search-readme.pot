@@ -1,0 +1,394 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "YITH WooCommerce Ajax Search"
+msgstr ""
+
+#. Short description.
+msgid "YITH WooCommerce Ajax Search allows your users to search products in real time."
+msgstr ""
+
+#. Screenshot description.
+msgid "YITH WooCommerce Ajax Search settings page"
+msgstr ""
+
+#. Screenshot description.
+msgid "YITH WooCommerce Ajax Search in operation displaying WooCommerce search results"
+msgstr ""
+
+#. Found in description header.
+msgid "Improve user experience, improve your sales"
+msgstr ""
+
+#. Found in description header.
+msgid "Features of YITH WooCommerce Ajax Search:"
+msgstr ""
+
+#. Found in description header.
+msgid "Premium features of YITH WooCommerce Ajax Search:"
+msgstr ""
+
+#. Found in description header.
+msgid "Compatibility with WooCommerce plugins"
+msgstr ""
+
+#. Found in description list item.
+msgid "Widget and shortcodes to show your WooCommerce searchform in anywhere you want in your WooCommerce site."
+msgstr ""
+
+#. Found in description list item.
+msgid "Customize WooCommerce input label"
+msgstr ""
+
+#. Found in description list item.
+msgid "Customise WooCommerce search submit"
+msgstr ""
+
+#. Found in description list item.
+msgid "Set minimum number of characters for WooCommerce search"
+msgstr ""
+
+#. Found in description list item.
+msgid "Set maximum number of WooCommerce results"
+msgstr ""
+
+#. Found in description list item.
+msgid "All features of the free version of YITH WooCommerce Ajax Search"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show filter for WooCommerce search fields"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show list of WooCommerce categories (main categories/all categories)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Extend search in WooCommerce product excerpt"
+msgstr ""
+
+#. Found in description list item.
+msgid "Extend search in WooCommerce product content"
+msgstr ""
+
+#. Found in description list item.
+msgid "Extend search in WooCommerce product categories"
+msgstr ""
+
+#. Found in description list item.
+msgid "Extend search in WooCommerce product tags"
+msgstr ""
+
+#. Found in description list item.
+msgid "Extend search also to WooCommerce product SKU"
+msgstr ""
+
+#. Found in description list item.
+msgid "Extend SKU search including WooCommerce variable products"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show WooCommerce thumbnails in the list of search suggestions"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show WooCommerce product price in the list of search suggestions"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show WooCommerce sale badge (customization options available too)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show WooCommerce featured badge (customization options available too)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show excerpt of WooCommerce product (set the text to show as WooCommerce product excerpt)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Customize WooCommerce search loader .gif image"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/yith-woocommerce-quick-view/\"><strong>YITH Woocommerce Quick view</strong></a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/plugins/yith-woocommerce-zoom-magnifier/\"><strong>YITH Woocommerce magnifier</strong></a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://it.wordpress.org/plugins/yith-woocommerce-ajax-navigation/\"><strong>YITH Woocommerce Ajax Product Filter</strong></a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://it.wordpress.org/plugins/yith-infinite-scrolling/\"><strong>YITH Woocommerce Infinite scrolling</strong></a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "YITH WooCommerce Ajax Search is a very easy-to-use plugin for WooCommerce. You just need to install it and it's ready to work."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "It creates a simple search box that shows you instant search results, by suggesting you products from your WooCommerce store that match your searching criteria."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "It is very useful to assist your users while they are trying to search any product in your website. They can just enter a keyword for the WooCommerce product they are looking for and YITH WooCommerce Ajax Search will spare them the nuisance to browse all WooCommerce categories one at a time."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Did you ever forget the name of a WooCommerce product? Just start to write your keyphrase. A list of useful suggestion will be shown to you  and the more you write, the more accurate search results will be. At that point, you'll only need to choose what you need."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "It works just like Google Suggest, but this tool will be available on your WooCommerce site and will be using your database."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to boost your YITH WooCommerce Ajax Search, you can also visit YIThemes page and explore the <a href=\"http://plugins.yithemes.com/yith-woocommerce-ajax-search/\">live demo</a> of the premium version, which includes all the following features to improve at the best your WooCommerce site search."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For a more detailed list of options and features of YITH WooCommerce Ajax Search, please read the <a href=\"http://yithemes.com/docs-plugins/yith-woocommerce-ajax-search/\" title=\"YITH Woocommerce Ajax Search official documentation\">official documentation</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "YITH WooCommerce Ajax Search is available in combination with many other plugins in <a href=\"https://wordpress.org/plugins/yith-essential-kit-for-woocommerce-1/\"><strong>YITH Essential Kit for WooCommerce #1</strong></a>, a bundle of indispensable tools to make your WooCommerce site look more professional and be more user-friendly. Learn more about all of WooCommerce plugins included and boost your WooCommerce site with a simple click!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "YITH WooCommerce Ajax Search has been tested and compatibility is certain with the following WooCommerce plugins that you can add to your site:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Nevertheless, it could be compatible with many other WooCommerce plugins that have not been tested yet. If you want to inform us about compatibility with other plugins, please, <a href=\"mailto:plugins@yithemes.com\" title=\"Your Inspiration Themes\">email to us</a>."
+msgstr ""
+
+#. Found in installation header.
+msgid "Configuration"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unzip the downloaded .zip file."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the YITH WooCommerce Ajax Search folder into the <code>wp-content/plugins/</code> directory of your WordPress site."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate <code>YITH WooCommerce Ajax Search</code> from Plugins page"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Important: First of all, you have to download and activate WooCommerce plugin, because without it YITH WooCommerce Ajax Search cannot work."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "YITH WooCommerce Ajax Search will add a new tab called \"Ajax Search\" in \"YIT Plugins\" menu. There, you will find all YIThemes plugins and you will be able to access quickly plugin settings page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Add Plugin-Fw support for Essential Kit #1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Changed Text Domain from 'yit' to 'yith-woocommerce-ajax-search'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Plugin Core Framework"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to WooCommerce 2.4.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support more search elements on a page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Support to WPML"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Called to WP_Widget construct"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Backward compatibility with Autocomplete function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Renamed Autocomplete function with YithAutocomplete"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Wordpress 4.2 compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Shorcode output"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: WP security issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Loader image not hidden after search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Disabled submit when search string is empty"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Support to WPML in query string"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Plugin installation bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Minor bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to Wordpress 4.1.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to WooCommerce 2.3.x"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Javascript code in external file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Prevent undefined title index if the widget is called by the the_widget func"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated: Autocomplete js library"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Settings link doesn't work on WooCommerce 2.1.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support to WooCommerce 2.1.x"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it compatible with all WordPress themes?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I get support if my WooCommerce plugin is not working?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I get more features for my WooCommerce plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I try the full-featured plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What are the main changes in plugin translation?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Test the plugin with a WordPress default theme, to be sure that the error is not caused by the theme you are currently using."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Deactivate all plugins you are using and check if the problem is still occurring."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Ensure that you plugin version, your theme version and your WordPress and WooCommerce version (if required) are updated and that the problem you are experiencing has not already been solved in a later plugin update."
+msgstr ""
+
+#. Found in faq list item.
+msgid "yith-woocommerce-ajax-search-[WORDPRESS LOCALE].po"
+msgstr ""
+
+#. Found in faq list item.
+msgid "yith-woocommerce-ajax-search-[WORDPRESS LOCALE].mo"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Compatibility with all themes is impossible, because they are too many, but generally if themes are developed according to WordPress and WooCommerce guidelines, YITH plugins are compatible with them.\n"
+"Yet, we can grant compatibility with themes developed by YIThemes, because they are constantly updated and tested with our plugins. Sometimes, especially when new versions are released, it might only require some time for them to be all updated, but you can be sure that they will be tested and will be working in a few days."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you have problems with our plugins or something is not working as it should, first follow this preliminary steps:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If none of the previous listed actions helps you solve the problem, then, submit a ticket in the forum and describe your problem accurately, specify WordPress and WooCommerce versions you are using and any other information that might help us solve your problem as quickly as possible. Thanks!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can get more features with the premium version of YITH WooCommerce Ajax Search, available on <a href=\"https://yithemes.com/themes/plugins/yith-woocommerce-ajax-search/\">YIThemes page</a>. Here you can read more about the premium features of the plugin and make it give it its best shot!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you want to see a demonstration version of the premium plugin, you can see that in <a href=\"http://plugins.yithemes.com/yith-woocommerce-ajax-search/\">this page</a>. Browse it and try all options available so that you can see how your plugin looks like."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Recently YITH WooCommerce Ajax Search has been selected to be included in the \"translate.wordpress.org\" translate programme.\n"
+"In order to import correctly the plugin strings in the new system, we had to change the text domain form 'yit' to 'yith-woocommerce-ajax-search'.\n"
+"Once the plugin will be imported in the translate.wordpress.org system, the translations of other languages will be downloaded directly from WordPress, without using any .po and .mo files. Moreover, users will be able to participate in a more direct way to plugin translations, suggesting texts in their languages in the dedicated tab on translate.wordpress.org.\n"
+"During this transition step, .po and .mo files will be used as always, but in order to be recognized by WordPress, they will need to have a new nomenclature, renaming them in:"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Suggestions"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Translators"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Available Languages"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "English (Default)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Italian"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "If you have any suggestions for improving YITH WooCommerce Ajax Search, you can <a href=\"mailto:plugins@yithemes.com\" title=\"Your Inspiration Themes\">write to us</a>, and contribute in making your YITH WooCommerce Ajax Search more and more performing."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"If you have created your own language pack for YITH WooCommerce Ajax Search, or have an update for an existing one, you can send <a href=\"http://codex.wordpress.org/Translating_WordPress\" title=\"Translating WordPress\">gettext PO and MO file</a>\n"
+"<a href=\"mailto:plugins@yithemes.com\" title=\"Your Inspiration Themes\">to us</a> so we can bundle it into YITH WooCommerce Ajax Search."
+msgstr ""

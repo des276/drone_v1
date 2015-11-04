@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Sales Countdown v1.7\n"
+"POT-Creation-Date: 2014-11-30 00:52+0800\n"
+"PO-Revision-Date: 2014-11-30 08:16+0800\n"
+"Last-Translator: Vincent <vincent@webmart.tw>\n"
+"Language-Team: webmart.tw <service@webmart.tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: zh_TW\n"
+"X-Poedit-SearchPath-0: woosalescountdown\n"
+
+#: woosalescountdown/widget.php:48
+msgid "Title"
+msgstr "標題"
+
+#: woosalescountdown/widget.php:52
+msgid "Please select products"
+msgstr "請選擇商品"
+
+#: woosalescountdown/widget.php:79 woosalescountdown/woosalescountdown.php:140
+#: woosalescountdown/woosalescountdown.php:356
+#: woosalescountdown/woosalescountdown.php:679
+msgid "days"
+msgstr "天"
+
+#: woosalescountdown/widget.php:79 woosalescountdown/woosalescountdown.php:140
+#: woosalescountdown/woosalescountdown.php:356
+#: woosalescountdown/woosalescountdown.php:679
+msgid "hours"
+msgstr "小時"
+
+#: woosalescountdown/widget.php:79 woosalescountdown/woosalescountdown.php:140
+#: woosalescountdown/woosalescountdown.php:356
+#: woosalescountdown/woosalescountdown.php:679
+msgid "minutes"
+msgstr "分"
+
+#: woosalescountdown/widget.php:79 woosalescountdown/woosalescountdown.php:140
+#: woosalescountdown/woosalescountdown.php:356
+#: woosalescountdown/woosalescountdown.php:679
+msgid "seconds"
+msgstr "秒"
+
+#: woosalescountdown/widget.php:141 woosalescountdown/widget.php:147
+#: woosalescountdown/woosalescountdown.php:216
+#: woosalescountdown/woosalescountdown.php:220
+#: woosalescountdown/woosalescountdown.php:403
+#: woosalescountdown/woosalescountdown.php:409
+#: woosalescountdown/woosalescountdown.php:534
+#: woosalescountdown/woosalescountdown.php:540
+#: woosalescountdown/woosalescountdown.php:754
+#: woosalescountdown/woosalescountdown.php:760
+msgid " to "
+msgstr " 到 "
+
+#: woosalescountdown/widget.php:182 woosalescountdown/widget.php:210
+msgid "sold"
+msgstr "已出售"
+
+#: woosalescountdown/woosalescountdown-admin.php:70
+msgid "Products Sales Countdown"
+msgstr "倒數計時"
+
+#: woosalescountdown/woosalescountdown-admin.php:107
+msgid "General Options"
+msgstr "一般設定"
+
+#: woosalescountdown/woosalescountdown-admin.php:112
+msgid "Show count down"
+msgstr "顯示倒數計時"
+
+#: woosalescountdown/woosalescountdown-admin.php:116
+msgid "Please select what you want show in sale countdown."
+msgstr "請選擇您希望在哪裡顯示倒數計時器"
+
+#: woosalescountdown/woosalescountdown-admin.php:118
+msgid "Time and bar sale"
+msgstr "時間和銷售欄"
+
+#: woosalescountdown/woosalescountdown-admin.php:119
+msgid "Only time "
+msgstr "僅時間"
+
+#: woosalescountdown/woosalescountdown-admin.php:120
+msgid "Only bar sale"
+msgstr "僅銷售欄"
+
+#: woosalescountdown/woosalescountdown-admin.php:121
+msgid "Only schedule"
+msgstr "僅時間表"
+
+#: woosalescountdown/woosalescountdown-admin.php:125
+msgid "Product Sale Countdown show on"
+msgstr "倒數計時器顯示在"
+
+#: woosalescountdown/woosalescountdown-admin.php:129
+msgid "Please select where you want show Product Sale countdown."
+msgstr "請選擇要在哪裡顯示倒數計時"
+
+#: woosalescountdown/woosalescountdown-admin.php:131
+msgid "Both categories and product detail"
+msgstr "分類及商品內容都顯示"
+
+#: woosalescountdown/woosalescountdown-admin.php:132
+msgid "Only categories "
+msgstr "僅分類"
+
+#: woosalescountdown/woosalescountdown-admin.php:133
+msgid "Only product detail"
+msgstr "僅商品內容"
+
+#: woosalescountdown/woosalescountdown-admin.php:137
+msgid "Use color"
+msgstr "使用顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:141
+msgid "Please select color for countdown."
+msgstr "請選擇倒數計時器顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:143
+msgid "WooCommerce Frontend Styles"
+msgstr "WooCommerce 前端樣式"
+
+#: woosalescountdown/woosalescountdown-admin.php:144
+msgid "Custom below"
+msgstr "自定義如下"
+
+#: woosalescountdown/woosalescountdown-admin.php:148
+msgid "Time color"
+msgstr "時間顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:153
+msgid "Set color for time on Countdown."
+msgstr "設定倒數計時的時間顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:156
+msgid "Background color"
+msgstr "背景顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:161
+msgid "Set background color for time on Countdown."
+msgstr "設定倒數時間的背景顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:164
+msgid "Bar Sale color"
+msgstr "銷售欄顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:169
+msgid "Set bar's color what number sales on Countdown bar sale."
+msgstr "設定倒數計時銷售欄商品出售數量的顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:172
+msgid "Bar Sale Background color"
+msgstr "銷售欄背景顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:177
+msgid "Set bar's background color what number sales on Countdown bar sale."
+msgstr "設定倒數計時銷售欄商品出售數量的背景顏色"
+
+#: woosalescountdown/woosalescountdown-admin.php:180
+msgid "Product sale's title"
+msgstr "商品出售的標題"
+
+#: woosalescountdown/woosalescountdown-admin.php:184
+msgid "Title of product what is saling."
+msgstr "商品正在銷售的標題"
+
+#: woosalescountdown/woosalescountdown-admin.php:187
+msgid "Product coming's title"
+msgstr "銷售即將結束的標題"
+
+#: woosalescountdown/woosalescountdown-admin.php:191
+msgid "Title of product what is coming sale."
+msgstr "商品即將結束銷售的標題"
+
+#: woosalescountdown/woosalescountdown-admin.php:194
+msgid "Show Sales Countdown message"
+msgstr "顯示倒數訊息"
+
+#: woosalescountdown/woosalescountdown-admin.php:198
+msgid "Show message of product Comming title or product Sale title."
+msgstr "顯示商品即將結束或商品出售的訊息"
+
+#: woosalescountdown/woosalescountdown-admin.php:200
+#: woosalescountdown/woosalescountdown-admin.php:211
+#: woosalescountdown/woosalescountdown-admin.php:222
+#: woosalescountdown/woosalescountdown-admin.php:233
+msgid "No"
+msgstr "否"
+
+#: woosalescountdown/woosalescountdown-admin.php:201
+#: woosalescountdown/woosalescountdown-admin.php:212
+#: woosalescountdown/woosalescountdown-admin.php:223
+#: woosalescountdown/woosalescountdown-admin.php:234
+msgid "Yes"
+msgstr "是"
+
+#: woosalescountdown/woosalescountdown-admin.php:205
+msgid "Show date text"
+msgstr "顯示日期文字"
+
+#: woosalescountdown/woosalescountdown-admin.php:209
+msgid "Show Days, Hours, Mins, Sec."
+msgstr "顯示天數、小時、分鐘、秒數"
+
+#: woosalescountdown/woosalescountdown-admin.php:216
+msgid "Hide product"
+msgstr "隱藏商品"
+
+#: woosalescountdown/woosalescountdown-admin.php:220
+msgid "Product will be hide when time schedule expired."
+msgstr "商品將在時間到期後隱藏"
+
+#: woosalescountdown/woosalescountdown-admin.php:227
+msgid "Remove Sale Price"
+msgstr "移除出售價格"
+
+#: woosalescountdown/woosalescountdown-admin.php:231
+msgid "Sale price will be remove when time schedule expired."
+msgstr "商品將在時間到期後刪除出售價格"
+
+#: woosalescountdown/woosalescountdown-admin.php:240
+msgid "Product Detail"
+msgstr "商品內容"
+
+#: woosalescountdown/woosalescountdown-admin.php:245
+msgid "CountDown position"
+msgstr "倒數計時器位置"
+
+#: woosalescountdown/woosalescountdown-admin.php:249
+msgid "Please choose postion where countdown show on product detail."
+msgstr "請選擇要在商品內容裡顯示倒數計時器的位置"
+
+#: woosalescountdown/woosalescountdown-admin.php:251
+msgid "Above tabs area"
+msgstr "選項卡的上面"
+
+#: woosalescountdown/woosalescountdown-admin.php:252
+msgid "Below tabs area"
+msgstr "選項卡的下面"
+
+#: woosalescountdown/woosalescountdown-admin.php:253
+msgid "Above short description"
+msgstr "簡要說明上面"
+
+#: woosalescountdown/woosalescountdown-admin.php:254
+msgid "Below short description"
+msgstr "簡要說明下面"
+
+#: woosalescountdown/woosalescountdown-admin.php:255
+msgid "Above Add to cart"
+msgstr "加入購物車上面"
+
+#: woosalescountdown/woosalescountdown-admin.php:256
+msgid "Below Add to cart"
+msgstr "加入購物車下面"
+
+#: woosalescountdown/woosalescountdown-admin.php:262
+msgid "Product Category"
+msgstr "商品分類"
+
+#: woosalescountdown/woosalescountdown-admin.php:267
+msgid "CountDown position on category"
+msgstr "分類的倒數計時器位置"
+
+#: woosalescountdown/woosalescountdown-admin.php:271
+msgid "Please choose postion where countdown show on category."
+msgstr "請選擇顯示在分類的倒數計時器位置"
+
+#: woosalescountdown/woosalescountdown-admin.php:273
+msgid "Above price"
+msgstr "價格上面"
+
+#: woosalescountdown/woosalescountdown-admin.php:274
+msgid "Above title"
+msgstr "標題上面"
+
+#: woosalescountdown/woosalescountdown-admin.php:275
+msgid "Above Add to Cart"
+msgstr "加入購物車上面"
+
+#: woosalescountdown/woosalescountdown-admin.php:276
+msgid "Below Add to Cart"
+msgstr "加入購物車下面"
+
+#: woosalescountdown/woosalescountdown-admin.php:281
+msgid "Product SHORTCODE vs Product WIDGET"
+msgstr "簡碼及小工具"
+
+#: woosalescountdown/woosalescountdown-admin.php:286
+msgid "Product Show"
+msgstr "商品顯示"
+
+#: woosalescountdown/woosalescountdown-admin.php:287
+msgid "Show title"
+msgstr "顯示標題"
+
+#: woosalescountdown/woosalescountdown-admin.php:295
+msgid "Show price"
+msgstr "顯示標題"
+
+#: woosalescountdown/woosalescountdown-admin.php:304
+msgid "Show Image"
+msgstr "顯示圖片"
+
+#: woosalescountdown/woosalescountdown-admin.php:313
+msgid "Linkable"
+msgstr "可用連結"
+
+#: woosalescountdown/woosalescountdown-admin.php:322
+msgid "Show Add To Cart button"
+msgstr "顯示加入購物車按鈕"
+
+#: woosalescountdown/woosalescountdown-admin.php:330
+msgid "Product Image Sizes"
+msgstr "商品圖片尺寸"
+
+#: woosalescountdown/woosalescountdown-admin.php:334
+msgid ""
+"Image Sizes will be follow WooCommerce Setting. Setting at <a href=\"admin."
+"php?page=wc-settings&tab=products\">Product setting</a>."
+msgstr ""
+"圖片尺寸將按照 WooCommerce 的設定。可在 <a href=\"admin.php?page=wc-"
+"settings&tab=products\">商品設定</a> 設置"
+
+#: woosalescountdown/woosalescountdown-admin.php:336
+msgid "Catalog Images"
+msgstr "目錄圖片"
+
+#: woosalescountdown/woosalescountdown-admin.php:337
+msgid "Single Product Image "
+msgstr "單一商品圖片"
+
+#: woosalescountdown/woosalescountdown-admin.php:338
+msgid "Product Thumbnails"
+msgstr "商品縮圖"
+
+#: woosalescountdown/woosalescountdown.php:78
+msgid "Turn off countdown"
+msgstr "關閉倒數計時"
+
+#: woosalescountdown/woosalescountdown.php:79
+msgid "Hide countdown on this product."
+msgstr "對這款產品隱藏倒數計時"
+
+#: woosalescountdown/woosalescountdown.php:241
+#: woosalescountdown/woosalescountdown.php:252
+#: woosalescountdown/woosalescountdown.php:430
+#: woosalescountdown/woosalescountdown.php:443
+#: woosalescountdown/woosalescountdown.php:580
+#: woosalescountdown/woosalescountdown.php:592
+#: woosalescountdown/woosalescountdown.php:780
+#: woosalescountdown/woosalescountdown.php:789
+msgid " sold"
+msgstr " 已出售"
+
+#: woosalescountdown/woosalescountdown.php:334
+msgid "Shortcode not correct"
+msgstr "簡碼不正確"
+
+#: woosalescountdown/woosalescountdown.php:952
+#: woosalescountdown/woosalescountdown.php:1002
+msgid "Total product discount"
+msgstr "銷售商品數量"
+
+#: woosalescountdown/woosalescountdown.php:955
+#: woosalescountdown/woosalescountdown.php:1005
+msgid "Enter the TOTAL Sale product."
+msgstr "輸入出售商品的總數量"
+
+#: woosalescountdown/woosalescountdown.php:962
+#: woosalescountdown/woosalescountdown.php:1012
+msgid "Quantity product sale"
+msgstr "商品銷售數量"
+
+#: woosalescountdown/woosalescountdown.php:965
+#: woosalescountdown/woosalescountdown.php:1015
+msgid "Quantity sale of this product is sold."
+msgstr "輸入商品已出售的數量"
+
+#: woosalescountdown/woosalescountdown.php:1130
+msgid "Settings"
+msgstr "設定"
