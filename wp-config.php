@@ -20,10 +20,10 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress_drone');
+define('DB_NAME', 'themedia_dji');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'themedia_dji');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'vimbly123');
