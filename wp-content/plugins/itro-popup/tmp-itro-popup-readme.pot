@@ -1,0 +1,400 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "ITRO Popup Plugin"
+msgstr ""
+
+#. Short description.
+msgid ""
+"ITRO Popup display a popup to your WP site:\n"
+"★ Age restriction for adult-content site\n"
+"★ Multilanguage popup with qTransalte-X\n"
+"★ Very easy to use"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "ITRO Popup Plugin - The BEST WP Popup Plugin"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"WANT MORE FEATURES? Try ITRO Wordpress Marketing for free!\n"
+"<a href=\"http://www.itro.eu/\">TRY IT FOR FREE!</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"ITRO Popup is a very lightweight Plugin for Wordpress which allow users to add a fully-customizable, multilanguage pop-up thanks to qTranslate-X. \n"
+"It has a very user-friendly interface, which allow Wordpress users to easily modify all settings needed for a popup, without coding. \n"
+"With \"Age restricted site\"  option, the popup block the navigation (for age validation) until the user declare that is above the local country legal age. \n"
+"It is useful for adult content Wordpress site (tobacco &amp; alcohol selling, violence, bad language, etc...). The leave and the enter button \n"
+"are separately customizable. Is embedded the Wordpress editor to simplify input whatever you want in your popup.\n"
+"Popup can be rendered unlockable with the option \"Unlockable popup\" so it will close only with countdown.\n"
+"This plugin is basic-user oriented, no code knowledge is required.\n"
+"Simply the best Wordpress popup plugin!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"TRANSLATED IN FOLLOWING LANGUAGES:\n"
+"- Italian\n"
+"- English\n"
+"- French (thanks to Patrice CHASSAING)\n"
+"- Serbo-Croatian (thanks to Andrijana Nikolic www.webhostinggeeks.com)\n"
+"- Nederlands (thanks to Descamps Gino)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"FOR TUTORIAL AND FAQ VISIT THE OFFICIAL SITE <a href=\"http://www.itro.eu/?page_id=390\">CLICK HERE!</a>\n"
+"DONATE NOW! <a href=\"http://www.itro.eu/?page_id=396\">DONATE NOW</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For any problem, please contact us at our site: <a href=\"http://www.itro.eu/?page_id=247\">CONTACT US</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Want a more powerful marketing tools?\n"
+"Try ITRO Wordpress Marketing PRO with a 14 days free trial."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://www.itro.eu/\">TRY IT FOR FREE!</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unzip <code>itro-plugin.zip</code> to the <code>/wp-content/plugins/</code> directory or select it by \"Add new\" in the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to \"Settings-&gt;ITRO Popup\" in the admin menu"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enjoy"
+msgstr ""
+
+#. Found in installation paragraph, faq paragraph, remaining content paragraph.
+msgid "FOR TUTORIAL AND FAQ VISIT THE OFFICIAL SITE <a href=\"http://www.itro.eu/?page_id=390\">CLICK HERE!</a>"
+msgstr ""
+
+#. Found in installation paragraph, faq paragraph, remaining content paragraph.
+msgid "DONATE NOW! - HELP US TO DEVELOP FOR YOU! <a href=\"http://www.itro.eu/?page_id=396\">DONATE NOW</a>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "FIXED: Popup closing by clicking outside with age restriction."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "FIXED: shortcodes not working in the popup contents"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"ADDED: Multilingual compatibility with qtranslate X.\n"
+"ADDED: Url for the enter button of age validation."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "ADDED: Nederlands translation, thanks to Descamps Gino."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"ADDED: Popup closing by outside clicking.\n"
+"ADDED: Serbo-Croatian language translation, thanks to Andrijana Nikolic www.webhostinggeeks.com\n"
+"FIXED: Improved French and English transaltion thanks to Patrice CHASSAING."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"FIXED: visualization bugs.\n"
+"FIXED: \"only selected pages\" doesn't work for pages set as blog hompage in Settings-&gt;Reading."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "database collation issue solved."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "database error fixed"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "improved caching compatibility"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"wp_ prefix bug fixed. Now the table has the right wordpress table prefix.\n"
+"Caching issue resolved (W3 super cache and similar) now \"Next visualization time\" works"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Content warnig button centerd in the popup"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Admin style in proper css file. Shortcodes now work."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New paypal donation form."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Deleted useless itroLocalPath to avoid <strong>DIR</strong> error for old PHP version"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Added French translation, deleted send_header function with IE metadata for compatibility,\n"
+"English errors found. Minor bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Admin bug fixed for delete data on uninstall. Age validatition and popup delay bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "jQuery conflict resolved. Main js function now are rightly loaded by wp_enqueue_scripts."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Automatically retrieve debug info for quick support. Code manteniance."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Code maintenance. Opaque background not showing with popup delay setted bug fixed.\n"
+"Use of wpdb query instead of sql direct command on uninstall."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Code maintenance, some js errors fixed in admin page."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Bug on first installation fixed (preview page not working)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Code maintenance. Some bug for popup visualization fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Popup can be disabled for mobile devices. Close cross can be changed for dark or light background."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Woocommerce compatibility problem fixed (popup not works on shop page)."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Improved database function compatibility and speed. (Error in IIS servers)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Heavy bugs fixed. With WP_DEBUG true plugin generated a lot of errors."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fixed bug on activation and deactivation: the popup content and setting now don't reset."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Border width bug fixed. Enter button bug fixed. Padding bug fixed. Database function changed for better compatibility"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Age validation cookie bug on refresh page fixed. Added delete cookie button. Resolved OpenGraph metatag bug.\n"
+"New hook for better compatibility. Cookie bug on preview page fixed. Added padding."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Heavy bug fixed. Header sent error fixed, blog homepage fixed. Improved user interface. Font style and size errors fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"User interface improved, now can be selected only basic settings. Age validation bug fixed, now works right.\n"
+"Added border radius and width. Minor bugs fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "IE compatibility removed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "header bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Improved themes compatibility. Minor bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Added fade-in and fade out animation."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Big bug fixed: broken media blank page resolved!"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Now user can unistall plugin whithout delete settings."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Include error fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "minor bugs fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"New user interface, with slide-bar control. Customizable opacity and color of opaque background behind\n"
+"the pop-up."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Popup can be rendered unlockable. Added time delay before popup will be displayed. If countdown is hidden\n"
+"it run anyway."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "WP editor visualization bug fixed. Better visualization for countdown and close cross. UI more friendly."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Added media button in WP editor. Integrated WP media uploading for images. WP editor paragraph bug fixed.\n"
+"Now popup can be displayed in blog homepage. Minor bug fixed. Now content can scroll vertically."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Added WP editor to custom text field. Restored preview button, now it open a new window whith popup integrated\n"
+"in the theme. Uninstall bug solved, now clear all data and tables."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Big uploaded images truble solved! Now when you update the plugin your uploaded images remain in your site\n"
+"(is not necessary to upload everything every time). Automatic centering now works perfectly. Custom text \n"
+"border bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Listing image bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"New user interface, minor bug fixed, new color picker (thanks to Jan Odvarko for jscolor), new features\n"
+"and customizations (background image, bg text color, etc...)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Preview bug fixed. Now countdown works right."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Now automatic centering works great. Important custom HTML cod fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Now automatic centering works great."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Important cookie bug fxed and some js bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Cookie bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Italian translation error fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Preview refresh bug fixed. Added the possibility to select manually the top margin, in case of problem."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "preview bug fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Minor bug fixed. Internet Explorer compability fixed."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Important bug fixed. Very important function implemented. Now user can select the single page where\n"
+"the popup will be displayed. Now position can be selected between \"Absolute\" and \"Fixed\"."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "important bug fixed: now custom HTML code works right."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"bugs fixed;\n"
+"now popup is better centered;\n"
+"added the possibility to insert a direct url for the popup image."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "bug fixed: color table now works in admin pannel."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "First released version."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Notes"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Features"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"We accept all kind of suggestion.\n"
+"Thanks to Jan Odvarko for jscolor: http://jscolor.com/"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"★ Pretty fade-in and fade-out animation.\n"
+"★ Need to remove plugin and save data? It is possible!\n"
+"★ Can be multiple selcted pages where user want to display the popup. NO SHORTCODES NEEDED!\n"
+"★ Fully translated in Italian. Ready for multilingual translation.\n"
+"★ Close popup with ESC button (not when \"age restricted option\" is checked).\n"
+"★ Perfectly centered popup, also with resized windows.\n"
+"★ Fully and easy customizable aspect (background, border, color, etc...).\n"
+"★ Settable countdown for automatic closing.\n"
+"★ Settable coockie expiration time for the next popup visualization.\n"
+"★ Add age validation for adult-content site.\n"
+"★ Custom text to display whatever you want with WP editor.\n"
+"★ All great explaned by tips in admin pannel.\n"
+"★ All in a very easy way to use!"
+msgstr ""

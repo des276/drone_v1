@@ -51,7 +51,7 @@ global $ros_opt;
 		</div>
 	<!-- END BOTTOM FOOTER -->
 	
-
+<div id="popup" title="Contact Us"><?php echo do_shortcode("[ninja_forms id=3]"); ?></div>
 
 </footer>
 
@@ -63,5 +63,21 @@ global $ros_opt;
 
 <?php wp_footer(); ?>
 
+	<script type="text/javascript">
+		$('#popup').hide();
+
+		$('.cart-icon').click(function(event){
+
+		  $(function() {
+		    $( "#popup" ).dialog({
+		    	minWidth:  500
+		    });
+		  });
+
+			$('#popup').show();
+			event.preventDefault();	
+			event.stopPropagation();
+		});
+	</script>
 </body>
 </html>

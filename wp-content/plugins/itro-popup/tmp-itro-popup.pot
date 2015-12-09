@@ -1,0 +1,529 @@
+# Copyright (C) 2015 ITRO Popup Plugin
+# This file is distributed under the same license as the ITRO Popup Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ITRO Popup Plugin 4.7.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/itro-popup\n"
+"POT-Creation-Date: 2015-11-16 06:48:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/popup-admin.php:9
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/popup-admin.php:142
+msgid "settings saved."
+msgstr ""
+
+#: admin/popup-admin.php:149
+msgid "I.T.RO. Popup Plugin - Settings"
+msgstr ""
+
+#: admin/popup-admin.php:161
+msgid "General Popup Option:"
+msgstr ""
+
+#: admin/popup-admin.php:168
+msgid "SHOW ADVANCED SETTINGS"
+msgstr ""
+
+#: admin/popup-admin.php:169
+msgid "Display many other options"
+msgstr ""
+
+#: admin/popup-admin.php:174
+msgid "DECIDE WHERE POPUP WILL BE DISPLAYED"
+msgstr ""
+
+#: admin/popup-admin.php:176
+msgid "Only selected pages"
+msgstr ""
+
+#: admin/popup-admin.php:176
+msgid "Multiple choices with CTRL+Click or SHIFT+Arrow up or down"
+msgstr ""
+
+#: admin/popup-admin.php:177
+msgid "All pages"
+msgstr ""
+
+#: admin/popup-admin.php:178
+msgid "No page"
+msgstr ""
+
+#: admin/popup-admin.php:182
+msgid "Blog homepage"
+msgstr ""
+
+#: admin/popup-admin.php:184
+msgid ""
+"If in your Settings->Reading you have set 'Front page displays: Your latest "
+"posts' and want to display the popup in the home, check this box."
+msgstr ""
+
+#: admin/popup-admin.php:194
+msgid "GENERAL SETTINGS"
+msgstr ""
+
+#: admin/popup-admin.php:197
+msgid "Disable on mobile device"
+msgstr ""
+
+#: admin/popup-admin.php:198
+msgid "Check this to disable popup on mobile devices"
+msgstr ""
+
+#: admin/popup-admin.php:201
+msgid "Disable ESC key"
+msgstr ""
+
+#: admin/popup-admin.php:202
+msgid ""
+"If you set this option, popup can not be closed with ESC button of keyboard."
+msgstr ""
+
+#: admin/popup-admin.php:207
+msgid "Popup seconds:"
+msgstr ""
+
+#: admin/popup-admin.php:207
+msgid ""
+"Set seconds until the popup automatically close. Set it to zero to disable "
+"countdown."
+msgstr ""
+
+#: admin/popup-admin.php:215
+msgid "Popup delay:"
+msgstr ""
+
+#: admin/popup-admin.php:215
+msgid "Set seconds before the popup will be displayed"
+msgstr ""
+
+#: admin/popup-admin.php:223
+msgid "Next visualization (hours):"
+msgstr ""
+
+#: admin/popup-admin.php:223
+msgid ""
+"Set time for the next visualization of popup, to prevent annoying repeated "
+"visualizations, when someone visit pages"
+msgstr ""
+
+#: admin/popup-admin.php:229
+msgid "Delete cookie"
+msgstr ""
+
+#: admin/popup-admin.php:230
+msgid "Cookie deleted!"
+msgstr ""
+
+#: admin/popup-admin.php:235
+msgid "Show countdown"
+msgstr ""
+
+#: admin/popup-admin.php:236
+msgid ""
+"Show the countdown at the bottom of the popup which dispay the time before "
+"popup will close. If is hidden, it run anyway."
+msgstr ""
+
+#: admin/popup-admin.php:238
+msgid "Countdown font color:"
+msgstr ""
+
+#: admin/popup-admin.php:239
+msgid "Select the countdown font color."
+msgstr ""
+
+#: admin/popup-admin.php:243
+msgid "POPUP ASPECT"
+msgstr ""
+
+#: admin/popup-admin.php:247
+msgid "Popup width:"
+msgstr ""
+
+#: admin/popup-admin.php:247
+msgid ""
+"Use the % to change width dinamically with the browser window , or px for "
+"fixed dimension i.e: 30% or 200px"
+msgstr ""
+
+#: admin/popup-admin.php:261
+msgid "Popup height:"
+msgstr ""
+
+#: admin/popup-admin.php:261
+msgid "Select auto to adapt popup height to the content"
+msgstr ""
+
+#: admin/popup-admin.php:275
+msgid "Popup background color"
+msgstr ""
+
+#: admin/popup-admin.php:277
+msgid "Popup border color:"
+msgstr ""
+
+#: admin/popup-admin.php:283
+msgid "Popup border radius(px):"
+msgstr ""
+
+#: admin/popup-admin.php:291
+msgid "Popup border width(px):"
+msgstr ""
+
+#: admin/popup-admin.php:299
+msgid "Popup padding(px):"
+msgstr ""
+
+#: admin/popup-admin.php:306
+msgid "BACKGROUND IMAGE"
+msgstr ""
+
+#: admin/popup-admin.php:307
+msgid "Show image"
+msgstr ""
+
+#: admin/popup-admin.php:310
+msgid "No background"
+msgstr ""
+
+#: admin/popup-admin.php:313
+msgid "Upload Image"
+msgstr ""
+
+#: admin/popup-admin.php:316
+msgid "Popup position:"
+msgstr ""
+
+#: admin/popup-admin.php:316
+msgid ""
+"Setting ABSOLUTE the popup will be static on the page. Setting FIXED it will "
+"scroll with the page."
+msgstr ""
+
+#: admin/popup-admin.php:327
+msgid "Automatic top margin:"
+msgstr ""
+
+#: admin/popup-admin.php:328
+msgid ""
+"The system will try to center the popup automatically, unselect it if you "
+"encounter any issues"
+msgstr ""
+
+#: admin/popup-admin.php:333
+msgid "Popup top margin(px):"
+msgstr ""
+
+#: admin/popup-admin.php:343
+msgid "Background opacity"
+msgstr ""
+
+#: admin/popup-admin.php:343
+msgid "Set the opacity of opaque background under the popup."
+msgstr ""
+
+#: admin/popup-admin.php:364
+msgid "Opaque background color"
+msgstr ""
+
+#: admin/popup-admin.php:369
+msgid "Close cross"
+msgstr ""
+
+#: admin/popup-admin.php:369
+msgid ""
+"Select the colour combination of the closing cross on the upper right of "
+"popup."
+msgstr ""
+
+#: admin/popup-admin.php:371
+msgid "Black"
+msgstr ""
+
+#: admin/popup-admin.php:372
+msgid "White"
+msgstr ""
+
+#: admin/popup-admin.php:373
+msgid "White with border"
+msgstr ""
+
+#: admin/popup-admin.php:382
+msgid "Age restriction settings:"
+msgstr ""
+
+#: admin/popup-admin.php:386
+msgid "Enable age validation"
+msgstr ""
+
+#: admin/popup-admin.php:389
+msgid "Enter button text:"
+msgstr ""
+
+#: admin/popup-admin.php:390
+msgid "i.e.: I AM OVER 18 - ENTER"
+msgstr ""
+
+#: admin/popup-admin.php:392
+msgid "Enter button url:"
+msgstr ""
+
+#: admin/popup-admin.php:393
+msgid "i.e.: http://www.mysite.com/enter.html"
+msgstr ""
+
+#: admin/popup-admin.php:397
+msgid "Enter button background color:"
+msgstr ""
+
+#: admin/popup-admin.php:400
+msgid "Enter button border color:"
+msgstr ""
+
+#: admin/popup-admin.php:403
+msgid "Enter button font color:"
+msgstr ""
+
+#: admin/popup-admin.php:408
+msgid "Leave button text:"
+msgstr ""
+
+#: admin/popup-admin.php:409
+msgid "i.e.: I AM UNDER 18 - LEAVE"
+msgstr ""
+
+#: admin/popup-admin.php:411
+msgid "Leave button url:"
+msgstr ""
+
+#: admin/popup-admin.php:412
+msgid "i.e.: http://www.mysite.com/leave.html"
+msgstr ""
+
+#: admin/popup-admin.php:416
+msgid "Leave button background color:"
+msgstr ""
+
+#: admin/popup-admin.php:419
+msgid "Leave button border color:"
+msgstr ""
+
+#: admin/popup-admin.php:422
+msgid "Leave button font color:"
+msgstr ""
+
+#: admin/popup-admin.php:433 admin/popup-admin.php:455
+#: admin/popup-admin.php:486
+msgid "Save Changes"
+msgstr ""
+
+#: admin/popup-admin.php:434 admin/popup-admin.php:456
+msgid "Preview page"
+msgstr ""
+
+#: admin/popup-admin.php:440
+msgid "ITRO Popup messages"
+msgstr ""
+
+#: admin/popup-admin.php:447
+msgid "Your text (or HTML code):"
+msgstr ""
+
+#: admin/popup-admin.php:464
+msgid "Like it? Offer us a coffee! ;-)"
+msgstr ""
+
+#: admin/popup-admin.php:472
+msgid "System Status"
+msgstr ""
+
+#: admin/popup-admin.php:483
+msgid "DELETE ALL DATA ON PLUGIN UNINSTALL"
+msgstr ""
+
+#: admin/popup-admin.php:484
+msgid ""
+"Check this box if you want to delete or maintain database tables. It is "
+"usefull if you have to try to install again the plugin, without lost your "
+"settings."
+msgstr ""
+
+#: functions/core-function.php:209
+msgid "Not set"
+msgstr ""
+
+#: functions/core-function.php:210 functions/core-function.php:212
+msgid "On"
+msgstr ""
+
+#: functions/core-function.php:211 functions/core-function.php:213
+msgid "Off"
+msgstr ""
+
+#: functions/core-function.php:215 functions/core-function.php:217
+#: functions/core-function.php:219 functions/core-function.php:221
+#: functions/core-function.php:223 functions/core-function.php:251
+msgid "N/A"
+msgstr ""
+
+#: functions/core-function.php:222
+msgid " MByte"
+msgstr ""
+
+#: functions/core-function.php:224 functions/core-function.php:226
+#: functions/core-function.php:228 functions/core-function.php:243
+msgid "Yes"
+msgstr ""
+
+#: functions/core-function.php:225 functions/core-function.php:227
+#: functions/core-function.php:229 functions/core-function.php:247
+msgid "No"
+msgstr ""
+
+#: functions/core-function.php:258
+msgid "Operating System"
+msgstr ""
+
+#: functions/core-function.php:259
+msgid "Server"
+msgstr ""
+
+#: functions/core-function.php:260
+msgid "Memory usage"
+msgstr ""
+
+#: functions/core-function.php:261
+msgid "MYSQL Version"
+msgstr ""
+
+#: functions/core-function.php:262
+msgid "SQL Mode"
+msgstr ""
+
+#: functions/core-function.php:263
+msgid "PHP Version"
+msgstr ""
+
+#: functions/core-function.php:264
+msgid "PHP Safe Mode"
+msgstr ""
+
+#: functions/core-function.php:265
+msgid "PHP Allow URL fopen"
+msgstr ""
+
+#: functions/core-function.php:266
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: functions/core-function.php:267
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: functions/core-function.php:268
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: functions/core-function.php:269
+msgid "PHP Max Script Execute Time"
+msgstr ""
+
+#: functions/core-function.php:270
+msgid "PHP Exif support"
+msgstr ""
+
+#: functions/core-function.php:271
+msgid "PHP IPTC support"
+msgstr ""
+
+#: functions/core-function.php:272
+msgid "PHP XML support"
+msgstr ""
+
+#: functions/core-function.php:273
+msgid "Site URL"
+msgstr ""
+
+#: functions/core-function.php:274
+msgid "Home URL"
+msgstr ""
+
+#: functions/core-function.php:275
+msgid "WordPress Version"
+msgstr ""
+
+#: functions/core-function.php:276
+msgid "WordPress DB Version"
+msgstr ""
+
+#: functions/core-function.php:277
+msgid "Multisite"
+msgstr ""
+
+#: functions/core-function.php:278
+msgid "Active Theme"
+msgstr ""
+
+#: functions/core-function.php:293
+msgid "ITRO Popup Plugin - Debug info"
+msgstr ""
+
+#: functions/core-function.php:313
+msgid "Form submission error: verification check failed."
+msgstr ""
+
+#: functions/core-function.php:318
+msgid "ITRO Debug Mail From Site %s."
+msgstr ""
+
+#: functions/core-function.php:320
+msgid "Sent to %s."
+msgstr ""
+
+#: functions/core-function.php:324
+msgid "Failed to send to %s."
+msgstr ""
+
+#: functions/core-function.php:329
+msgid "Error: please enter an e-mail address before submitting."
+msgstr ""
+
+#: templates/itro-popup-template.php:11
+msgid "This popup will be closed in: "
+msgstr ""
+
+#: templates/itro-popup-template.php:26
+msgid "CLOSE"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ITRO Popup Plugin"
+msgstr ""
+
+#. #-#-#-#-#  tmp-itro-popup.pot (ITRO Popup Plugin 4.7.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-itro-popup.pot (ITRO Popup Plugin 4.7.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.itro.eu/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"EN - Show a perfecly centered customizable popup and a popup-system for age-"
+"restricted site and allow to insert own HTML code. IT - Visualizza un popup "
+"perfettamente centrato e personalizzabile con possibile blocco per i siti "
+"con restrizioni di eta' e permette di inserire il proprio codice HTML."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ITRO Team"
+msgstr ""

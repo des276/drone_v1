@@ -16,6 +16,10 @@ global $ros_opt;
 	<link rel="shortcut icon" href="<?php if ($ros_opt['site_favicon']) { echo esc_attr($ros_opt['site_favicon']); ?>
 	<?php } else { ?><?php echo get_template_directory_uri(); ?>/favicon.png<?php } ?>" />
 	
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+	  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
 
 
 	<?php wp_head(); ?>
